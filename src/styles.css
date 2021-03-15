@@ -1,0 +1,58 @@
+.containerApp{
+  position: relative;
+  width:600px;
+  height:100%;
+  border:2px solid black;
+  border-radius: 10%;
+}
+.logo{
+  display: block;
+  text-align: center;
+  font-size: 50px
+}
+.input{
+  position: relative;
+  left: 30%;
+}
+.submit{
+  position: relative;
+  width: 90%;
+  height: 30px;
+  left: 5%;
+  background-color: blue;
+  border-radius: 50px;
+  color: white;
+  border: 1px solid blue;
+}
+.submitEdit{
+  position: relative;
+  width: 90%;
+  height: 30px;
+  left: 5%;
+  background-color: green;
+  border-radius: 50px;
+  color: white;
+  border: 1px solid green;
+}
+.products{
+  position: relative;
+  left: 10%;
+  font-style: italic;
+  font-size: 30px;
+}
+.erase{
+  position: relative;
+  left: 5%;
+  border-radius: 50px;
+  background-color: red;
+  color: white;
+  border: 1px solid red;
+}
+.edit{
+  position: relative;
+  left: 5%;
+  border-radius: 50px;
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+}
